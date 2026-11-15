@@ -1,0 +1,15 @@
+{
+  "id": "social-poster",
+  "name": "Social Poster",
+  "description": "Connect X and LinkedIn for publishing app launch posts.",
+  "icon": "SP",
+  "color": "#d8e4ee",
+  "tags": ["personal", "publishing"],
+  "favorite": false,
+  "cwd": "/Volumes/SamsungSSD1/code/social-poster",
+  "command": ["/opt/homebrew/bin/node", "src/main.mjs"],
+  "port": 8945,
+  "healthPath": "/health",
+  "runtime": "native",
+  "envFile": "/Volumes/SamsungSSD1/tools/social-poster/app.env"
+}
