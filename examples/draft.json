@@ -1,0 +1,10 @@
+{
+  "to": ["x", "linkedin"],
+  "text": "Built a small tool that previews a post for X and LinkedIn side by side, then publishes both only after I confirm the exact text.",
+  "x": {
+    "text": "New: one draft file, two previews, one confirmation code. Nothing posts until the code matches."
+  },
+  "link": "https://github.com/example/social-poster",
+  "image": "screenshot.png",
+  "imageTitle": "Preview output"
+}
